@@ -1,0 +1,2 @@
+datasets/CsNNet/Data/16kHz/train_noise_2.wav filter=lfs diff=lfs merge=lfs -text
+datasets/CsNNet/Data/48kHz/train_noise.wav filter=lfs diff=lfs merge=lfs -text
