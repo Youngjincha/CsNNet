@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 28 11:30:36 2022
 
-@author: Alireza
+@author: Alireza Mostafavi and Youngjin Cha
 """
 
 from os import listdir
